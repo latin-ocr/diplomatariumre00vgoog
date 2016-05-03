@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diplomatariumre00vgoog_0255.png"; bbox 0 0 3459 5300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 2072 2608 2431">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 2072 2608 2431">
+     <span class='ocr_line' id='line_1_1' title="bbox 1152 2072 1793 2168; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1152 2074 1326 2168; x_wconf 92' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1386 2074 1477 2165; x_wconf 82' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_3' title='bbox 1500 2074 1580 2168; x_wconf 86' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_4' title='bbox 1600 2072 1667 2167; x_wconf 88' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 1688 2076 1793 2168; x_wconf 89' lang='lat' dir='ltr'><strong>Z.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 340 2296 2608 2431; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 340 2313 1072 2430; x_wconf 83' lang='lat' dir='ltr'>VELENOZEI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1122 2296 1740 2431; x_wconf 77' lang='lat' dir='ltr'>KOVETEK</span> <span class='ocrx_word' id='word_1_8' title='bbox 1789 2296 2608 2431; x_wconf 84' lang='lat' dir='ltr'><strong>JELENTESEI.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
